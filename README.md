@@ -36,7 +36,7 @@ To Run: npm start
 ## Video Tutorial
 * Included is a video demonstration showing how each process works through Insomnia.
 
-[Link to Video]()
+[Link to Video](https://drive.google.com/file/d/1vMncFmi4tKHqAXgqKQ9e01shxGe7kKKZ/view?usp=sharing)
 
 ### License: 
  
